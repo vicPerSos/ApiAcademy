@@ -1,0 +1,13 @@
+com\daw\api\AcademyApplication.class
+com\daw\api\model\entity\Curso.class
+com\daw\api\controller\CursoController.class
+com\daw\api\repositori\ProfesorRepository.class
+com\daw\api\service\CursoService.class
+com\daw\api\controller\ProfesorController.class
+com\daw\api\model\entity\Alumno.class
+com\daw\api\controller\AlumnoController.class
+com\daw\api\model\entity\Profesor.class
+com\daw\api\repositori\CursoRepository.class
+com\daw\api\service\ProfesorService.class
+com\daw\api\repositori\AlumnoRepository.class
+com\daw\api\service\AlumnoService.class
